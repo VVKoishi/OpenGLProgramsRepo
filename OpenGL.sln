@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawObject", "DrawObject\Dr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawObjectImportPLY", "DrawObjectImportPLY\DrawObjectImportPLY.vcxproj", "{953D3268-42ED-4D23-884C-BBF31794F89C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawObjectImportOBJ", "DrawObjectImportOBJ\DrawObjectImportOBJ.vcxproj", "{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{953D3268-42ED-4D23-884C-BBF31794F89C}.Release|x64.Build.0 = Release|x64
 		{953D3268-42ED-4D23-884C-BBF31794F89C}.Release|x86.ActiveCfg = Release|Win32
 		{953D3268-42ED-4D23-884C-BBF31794F89C}.Release|x86.Build.0 = Release|Win32
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Debug|x64.ActiveCfg = Debug|x64
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Debug|x64.Build.0 = Debug|x64
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Debug|x86.Build.0 = Debug|Win32
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Release|x64.ActiveCfg = Release|x64
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Release|x64.Build.0 = Release|x64
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Release|x86.ActiveCfg = Release|Win32
+		{FF840950-27E8-4D4C-BAA4-D0BFFC814B61}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
